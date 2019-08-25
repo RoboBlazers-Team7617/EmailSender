@@ -1,4 +1,3 @@
-[nameofsponsor] [emailofsponsor]
-[nameofsponsor] [emailofsponsor]
-[nameofsponsor] [emailofsponsor]
-[nameofsponsor] [emailofsponsor]
+company@gmail.com
+organization@gmail.com
+friendsparent@gmail.com
