@@ -1,6 +1,6 @@
 # Initialization
-MY_ADDRESS = "ardayfiocaine@gmail.com"
-PASSWORD = "Papa1106"
+MY_ADDRESS = "youremail"
+PASSWORD = "yourpassword"
 
 # Function to read the contacts from contacts.txt and return a
 # list of names and email addresses
