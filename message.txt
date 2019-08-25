@@ -1,6 +1,6 @@
 Hello!
 
-My name is Caine, and I am a student member of Team #7617, the Roboblazers, in
+My name is [insert name], and I am a student member of Team #7617, the Roboblazers, in
 the First Robotics Competition.
 
 I wanted to share some information with you about our robotics team! We are
@@ -39,7 +39,7 @@ happy to provide you with more information on how to donate.
 
 Thank you for your consideration, and hope to hear more from you soon!
 
-Caine Ardayfio
+[insert name]
 
 Roboblazers Team Member
 
