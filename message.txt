@@ -1,6 +1,6 @@
 Hello!
 
-My name is Caine, and I am a student member of Team #7617, the Roboblazers, in the First Robotics Competition.
+My name is [name], and I am a student member of Team #7617, the Roboblazers, in the First Robotics Competition.
 
 I wanted to share some information with you about our robotics team! We are interested in developing a partnership with your organization.
 
@@ -16,7 +16,7 @@ Please see below, as I've attached our Fundraising Plan, which has more informat
 
 Thank you for your consideration, and hope to hear more from you soon!
 
-Caine
+[name]
 
 Roboblazers Team Member
 
